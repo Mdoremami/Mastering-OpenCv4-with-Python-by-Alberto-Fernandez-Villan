@@ -1,6 +1,6 @@
 # Mastering-OpenCv4-with-Python-by-Alberto-Fernandez-Villan
 Here, I post the things I've learned through the self-study course with this book.
-
+https://github.com/Mdoremami/Mastering-OpenCv4-with-Python-by-Alberto-Fernandez-Villan/blob/master/MO4WP_Cover.png
 Most of the codes are learned from this book, and you can find the related github address below:
 https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python
 
